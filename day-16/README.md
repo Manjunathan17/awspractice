@@ -1,6 +1,6 @@
 # AWS CLOUD WATCH 
 
-Welcome back to our "30 Days AWS Zero to Hero" series. Today, on Day 16, we will deep dive into AWS CloudWatch.
+
 
 What is AWS CloudWatch?
 
